@@ -1,0 +1,6 @@
+instaloader
+pandas
+streamlit
+plotly
+google-genai
+google-api-core
