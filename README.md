@@ -2,7 +2,7 @@
 
 # 📊 Advanced Instagram Analytics Scraper & Dashboard
 
-This is a **full-stack Instagram analytics system** that scrapes public Instagram profiles, computes insightful engagement metrics, and presents everything in a **beautiful Streamlit dashboard**.
+This is a **full-stack Instagram analytics system** that scrapes public Instagram profiles, computes insightful engagement metrics, and presents everything in a **beautiful Streamlit dashboard**. Checkout the website here https://instagram--scraper.streamlit.app/.
 
 It combines:
 
