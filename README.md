@@ -1,4 +1,4 @@
-# instagram-scrapper
+# instagram-scraper
 
 # 📊 Advanced Instagram Analytics Scraper & Dashboard
 
@@ -115,8 +115,8 @@ Outputs (auto-generated per profile):
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/zeenat-khan28/instagram-scrapper.git
+cd instagram-scrapper
 ```
 
 ### 2. Create Virtual Environment
